@@ -312,3 +312,29 @@ export default App;
 // }
 
 // export default Farmers;
+
+
+
+
+
+
+
+// <tbody className="farmer_table_body">
+// {data.filter(val => val[0].toLowercase().includes(search)).map((value, i) => (
+//         <tr key={i}>
+//                 <td  >
+//                     {/* <span className={i === 7 && value === 'approved' ? 'approved' : value === 'pending' ? 'pending' :''}>{value}</span> */}
+//                     {value[0]}
+//                 </td>
+//                 <td>{value[1]}</td>
+//                 <td>{value[2]}</td>
+//                 <td>{value[3]}</td>
+//                 <td>{value[4]}</td>
+//                 <td>{value[5]}</td>
+//                 <td>{value[6]}</td>
+//                 <td>{value[7]}</td>
+//                 <td>{value[8]}</td>
+//             <span className="click"><div><Click/></div></span>
+//         </tr>
+//         ))}
+// </tbody>

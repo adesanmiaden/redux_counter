@@ -24,5 +24,6 @@ button:hover,
 button:active {
   background-color: #5b14ac;
   border-color: #5b14ac;
+  color: white;
 }
 
